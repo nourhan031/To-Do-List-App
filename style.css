@@ -37,14 +37,6 @@
     margin: 20px;
     margin-top: -5px;
 }
-/* #input-box{
-    position: relative;
-    top: 20px;
-}
-#add-button{
-    position: relative;
-    top: 20px;
-} */
 .row{
     display: flex;
     align-items: center;
@@ -53,4 +45,11 @@
     border-radius: 30px;
     padding-left: 20px;
     margin-bottom: 25px;
+}
+input{
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 10px;
 }
